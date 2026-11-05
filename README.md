@@ -1,5 +1,5 @@
 
-# Hydration Reminder
+# Hydration Reminder (Lab 06)
 
 A React Native app built with Expo for setting recurring reminders to drink water. Users can choose a reminder message and interval, start or stop reminders, and view hydration tips and app information.
 
